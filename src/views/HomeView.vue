@@ -6,7 +6,7 @@
         <div class="container position-relative">
             <div class="row justify-content-center">
                 <div class="col-xl-7 col-lg-9 text-center mb-5">
-                    <h1><b>Tugas UAS TWEB</b></h1><br><h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique quod alias rem distinctio maiores, labore dolor perspiciatis architecto illum optio necessitatibus ipsam reprehenderit laborum nostrum iusto! Non molestias itaque inventore?</h3>
+                    <h1><b>Tugas UAS TWEB</b></h1><br><h3><b>Tugas ini diselesaikan untuk memenuhi tugas akhir mata kuliah tweb</b></h3>
                 </div>
             </div>
             <div class="text-center">
