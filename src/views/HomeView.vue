@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="text-center">
-                <a href="#about" class="btn btn-success mb-5">Lanjut</a>
+                <a href="#about" class="btn btn-success mb-5">Get Started</a>
             </div>
              <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
                     data-aos-delay="300">
